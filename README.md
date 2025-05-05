@@ -29,10 +29,10 @@ pip install -r requirements.txt
 python3 app.py
 
 ## Access API via:
-http://<your-ec2-ip>:5000/<endpoint>
+http://`<your-ec2-ip>`:5000/`<endpoint>`
 
 ## Swagger UI:
-http://<your-ec2-ip>:5000/swagger
+http://`<your-ec2-ip>`:5000/swagger
 
 
 ## API Documentation
