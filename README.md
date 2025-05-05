@@ -1,6 +1,7 @@
 
 
 ## Project Structure
+```plaintext
 api/
 ├── api-docs/
 │ ├── screenshots/ # Screenshots of API responses
@@ -12,6 +13,7 @@ api/
 │ ├── insert.sql # SQL script to insert data
 │ └── queries.sql # SQL script containing analytical queries
 └── README.md # Main documentation file
+```
 
 ##  How to Run the API
 1. Create a Python virtual environment:
