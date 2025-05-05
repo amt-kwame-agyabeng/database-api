@@ -1,3 +1,6 @@
+##  Introduction
+This project demonstrates how to build API with python using flask, A simple RESTful API for analyzing data given, including 
+Top Customers by Spending , Monthly Sales Report (Only Shipped/Delivered) ,Products Never Ordered ,Average Order Value by Country ,Frequent Buyers (More Than One Order).  The API is designed to expose a set of analytical queries as endpoints, making it easy to retrieve insights from the database.
 
 
 ## Project Structure
