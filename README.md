@@ -34,6 +34,13 @@ http://`<your-ec2-ip>`:5000/`<endpoint>`
 ## Swagger UI:
 http://`<your-ec2-ip>`:5000/swagger
 
+or 
+
+When using your local machine, you can access the API via:
+http://`<localhost>`:5000/`<endpoint>`
+
+## Swagger UI:
+http://`<localhost>`:5000/swagger
 
 ## API Documentation
 See api-docs/api_overview.md for an overview.
